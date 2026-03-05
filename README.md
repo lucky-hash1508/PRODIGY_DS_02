@@ -4,3 +4,6 @@
 - **Dataset**: gender_submission.csv
 - **Tool**: Python, Matplotlib, Pandas
 - **File**: `gender_submission.ipynb`
+
+## Libraries Used
+- pandas, numpy, matplotlib, seaborn
